@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TVM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14bc4269be763b236425e7624ebc605a9efb1862")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee115d7ef1ccc53b0b959c890a22f5196eab9c78")]
 [assembly: System.Reflection.AssemblyProductAttribute("TVM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TVM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
