@@ -1,0 +1,15 @@
+/Users/omartaky/Desktop/BIB/OOC/TVM/bin/Debug/net8.0/TVM
+/Users/omartaky/Desktop/BIB/OOC/TVM/bin/Debug/net8.0/TVM.deps.json
+/Users/omartaky/Desktop/BIB/OOC/TVM/bin/Debug/net8.0/TVM.runtimeconfig.json
+/Users/omartaky/Desktop/BIB/OOC/TVM/bin/Debug/net8.0/TVM.dll
+/Users/omartaky/Desktop/BIB/OOC/TVM/bin/Debug/net8.0/TVM.pdb
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.AssemblyInfoInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.AssemblyInfo.cs
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.csproj.CoreCompileInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.sourcelink.json
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.dll
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/refint/TVM.dll
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.pdb
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/TVM.genruntimeconfig.cache
+/Users/omartaky/Desktop/BIB/OOC/TVM/obj/Debug/net8.0/ref/TVM.dll
