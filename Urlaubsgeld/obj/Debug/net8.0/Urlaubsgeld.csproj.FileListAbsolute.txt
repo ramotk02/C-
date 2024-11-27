@@ -1,0 +1,14 @@
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\bin\Debug\net8.0\Urlaubsgeld.exe
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\bin\Debug\net8.0\Urlaubsgeld.deps.json
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\bin\Debug\net8.0\Urlaubsgeld.runtimeconfig.json
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\bin\Debug\net8.0\Urlaubsgeld.dll
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\bin\Debug\net8.0\Urlaubsgeld.pdb
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\Urlaubsgeld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\Urlaubsgeld.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\Urlaubsgeld.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\Urlaubsgeld.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\Urlaubsgeld.dll
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\refint\Urlaubsgeld.dll
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\Urlaubsgeld.pdb
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\Urlaubsgeld.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB\OOC\Urlaubsgeld\obj\Debug\net8.0\ref\Urlaubsgeld.dll

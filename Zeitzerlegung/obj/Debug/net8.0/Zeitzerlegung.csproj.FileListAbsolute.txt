@@ -1,0 +1,14 @@
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\bin\Debug\net8.0\Zeitzerlegung.exe
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\bin\Debug\net8.0\Zeitzerlegung.deps.json
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\bin\Debug\net8.0\Zeitzerlegung.runtimeconfig.json
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\bin\Debug\net8.0\Zeitzerlegung.dll
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\bin\Debug\net8.0\Zeitzerlegung.pdb
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\Zeitzerlegung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\Zeitzerlegung.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\Zeitzerlegung.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\Zeitzerlegung.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\Zeitzerlegung.dll
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\refint\Zeitzerlegung.dll
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\Zeitzerlegung.pdb
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\Zeitzerlegung.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB\OOC\Zeitzerlegung\obj\Debug\net8.0\ref\Zeitzerlegung.dll

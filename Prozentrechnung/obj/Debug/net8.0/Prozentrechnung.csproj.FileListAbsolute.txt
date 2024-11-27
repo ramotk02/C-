@@ -1,0 +1,14 @@
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\bin\Debug\net8.0\Prozentrechnung.exe
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\bin\Debug\net8.0\Prozentrechnung.deps.json
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\bin\Debug\net8.0\Prozentrechnung.runtimeconfig.json
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\bin\Debug\net8.0\Prozentrechnung.dll
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\bin\Debug\net8.0\Prozentrechnung.pdb
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\Prozentrechnung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\Prozentrechnung.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\Prozentrechnung.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\Prozentrechnung.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\Prozentrechnung.dll
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\refint\Prozentrechnung.dll
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\Prozentrechnung.pdb
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\Prozentrechnung.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB\OOC\Prozentrechnung\obj\Debug\net8.0\ref\Prozentrechnung.dll

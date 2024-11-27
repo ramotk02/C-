@@ -1,0 +1,14 @@
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\bin\Debug\net8.0\Streckenzerlegung.exe
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\bin\Debug\net8.0\Streckenzerlegung.deps.json
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\bin\Debug\net8.0\Streckenzerlegung.runtimeconfig.json
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\bin\Debug\net8.0\Streckenzerlegung.dll
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\bin\Debug\net8.0\Streckenzerlegung.pdb
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\Streckenzerlegung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\Streckenzerlegung.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\Streckenzerlegung.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\Streckenzerlegung.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\Streckenzerlegung.dll
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\refint\Streckenzerlegung.dll
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\Streckenzerlegung.pdb
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\Streckenzerlegung.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB\OOC\Streckenzerlegung\obj\Debug\net8.0\ref\Streckenzerlegung.dll
