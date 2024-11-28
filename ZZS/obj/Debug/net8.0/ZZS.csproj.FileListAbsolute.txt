@@ -1,0 +1,15 @@
+/Users/omartaky/Desktop/BIB/OOC/ZZS/bin/Debug/net8.0/ZZS
+/Users/omartaky/Desktop/BIB/OOC/ZZS/bin/Debug/net8.0/ZZS.deps.json
+/Users/omartaky/Desktop/BIB/OOC/ZZS/bin/Debug/net8.0/ZZS.runtimeconfig.json
+/Users/omartaky/Desktop/BIB/OOC/ZZS/bin/Debug/net8.0/ZZS.dll
+/Users/omartaky/Desktop/BIB/OOC/ZZS/bin/Debug/net8.0/ZZS.pdb
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.AssemblyInfoInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.AssemblyInfo.cs
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.csproj.CoreCompileInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.sourcelink.json
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.dll
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/refint/ZZS.dll
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.pdb
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ZZS.genruntimeconfig.cache
+/Users/omartaky/Desktop/BIB/OOC/ZZS/obj/Debug/net8.0/ref/ZZS.dll
