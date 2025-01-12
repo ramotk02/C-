@@ -1,0 +1,15 @@
+C:\Users\bib\Desktop\BIB\OOC\RA\bin\Debug\net8.0\RA.exe
+C:\Users\bib\Desktop\BIB\OOC\RA\bin\Debug\net8.0\RA.deps.json
+C:\Users\bib\Desktop\BIB\OOC\RA\bin\Debug\net8.0\RA.runtimeconfig.json
+C:\Users\bib\Desktop\BIB\OOC\RA\bin\Debug\net8.0\RA.dll
+C:\Users\bib\Desktop\BIB\OOC\RA\bin\Debug\net8.0\RA.pdb
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.sourcelink.json
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.dll
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\refint\RA.dll
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.pdb
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\RA.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB\OOC\RA\obj\Debug\net8.0\ref\RA.dll
