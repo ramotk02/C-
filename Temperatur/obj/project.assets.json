@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bib\\Desktop\\BIB - Kopie\\OOC\\Caffee\\Caffee.csproj",
+      "projectUniqueName": "C:\\Users\\bib\\Desktop\\BIB - Kopie\\OOC\\Temperatur\\Caffee.csproj",
       "projectName": "Caffee",
-      "projectPath": "C:\\Users\\bib\\Desktop\\BIB - Kopie\\OOC\\Caffee\\Caffee.csproj",
+      "projectPath": "C:\\Users\\bib\\Desktop\\BIB - Kopie\\OOC\\Temperatur\\Caffee.csproj",
       "packagesPath": "C:\\Users\\bib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bib\\Desktop\\BIB - Kopie\\OOC\\Caffee\\obj\\",
+      "outputPath": "C:\\Users\\bib\\Desktop\\BIB - Kopie\\OOC\\Temperatur\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bib\\AppData\\Roaming\\NuGet\\NuGet.Config",
