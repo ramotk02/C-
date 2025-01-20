@@ -1,0 +1,15 @@
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/bin/Debug/net8.0/ooc-2
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/bin/Debug/net8.0/ooc-2.deps.json
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/bin/Debug/net8.0/ooc-2.runtimeconfig.json
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/bin/Debug/net8.0/ooc-2.dll
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/bin/Debug/net8.0/ooc-2.pdb
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.AssemblyInfoInputs.cache
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.AssemblyInfo.cs
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.csproj.CoreCompileInputs.cache
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.sourcelink.json
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.dll
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/refint/ooc-2.dll
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.pdb
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ooc-2.genruntimeconfig.cache
+/Users/omartaky/Desktop/BIB/OOC 21-39-59-234/ooc-2/ooc-2/obj/Debug/net8.0/ref/ooc-2.dll
