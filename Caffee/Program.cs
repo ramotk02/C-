@@ -7,9 +7,9 @@
 
     private static void Main(string[] args)
     {
-        Console.Write("Enter temperature in Fahrenheit: ");
+        Console.Write("Geben Sie ihnen Temperatur of Fahrenheit: ");
         int fahr = int.Parse(Console.ReadLine());
         float celsius = F2C(fahr);
-        Console.WriteLine($"The temperature in Celsius is: {celsius}°C");
+        Console.WriteLine($"Die Temperature in Celsius: {celsius}°C");
     }
 }
