@@ -1,15 +1,21 @@
-﻿internal class Program
-{
-    public static float F2C(int fahr)
-    {
-        return (fahr - 32) * 5 / 9f;
-    }
+﻿using System;
 
+internal class Program
+{
     private static void Main(string[] args)
     {
-        Console.Write("Geben Sie ihnen Temperatur of Fahrenheit: ");
-        int fahr = int.Parse(Console.ReadLine());
-        float celsius = F2C(fahr);
-        Console.WriteLine($"Die Temperature in Celsius: {celsius}°C");
-    }
+        Console.WriteLine("Hello World");
+
+        if (args.Length > 0)
+        {
+            Console.WriteLine("Argument 0: " + args[0]);
+        }
+        for (int i = 0; i < args.Length; i++)
+        {
+            Console.WriteLine($"Argument {i}: {args[i]}");
+        }
+
+        Console.WriteLine("Geben Sie den Namen ein:");
+        string input = Console.ReadLine();  
+       
 }
