@@ -1,21 +1,17 @@
-﻿using System;
-
-internal class Program
+﻿internal class Program
 {
+    // Method to convert Fahrenheit to Celsius
+    public static float F2C(int fahr)
+    {
+        return (fahr - 32) * 5 / 9f;
+    }
+
+    // Entry point of the program
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello World");
-
-        if (args.Length > 0)
-        {
-            Console.WriteLine("Argument 0: " + args[0]);
-        }
-        for (int i = 0; i < args.Length; i++)
-        {
-            Console.WriteLine($"Argument {i}: {args[i]}");
-        }
-
-        Console.WriteLine("Geben Sie den Namen ein:");
-        string input = Console.ReadLine();  
-       
+        Console.Write("Enter temperature in Fahrenheit: ");
+        int fahr = int.Parse(Console.ReadLine());
+        float celsius = F2C(fahr);
+        Console.WriteLine($"The temperature in Celsius is: {celsius}°C");
+    }
 }
