@@ -1,0 +1,15 @@
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/bin/Debug/net8.0/Rabatt
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/bin/Debug/net8.0/Rabatt.deps.json
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/bin/Debug/net8.0/Rabatt.runtimeconfig.json
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/bin/Debug/net8.0/Rabatt.dll
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/bin/Debug/net8.0/Rabatt.pdb
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.AssemblyInfoInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.AssemblyInfo.cs
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.csproj.CoreCompileInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.sourcelink.json
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.dll
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/refint/Rabatt.dll
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.pdb
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/Rabatt.genruntimeconfig.cache
+/Users/omartaky/Desktop/BIB/OOC/Rabatt/Rabatt/obj/Debug/net8.0/ref/Rabatt.dll
