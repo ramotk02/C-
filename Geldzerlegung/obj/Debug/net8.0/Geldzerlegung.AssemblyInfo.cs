@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Geldzerlegung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a5066979cfb3e0e491005c635d58520def9d5fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Geldzerlegung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Geldzerlegung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

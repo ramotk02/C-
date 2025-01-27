@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omartaky/Desktop/BIB/OOC/OOC/Zeitzerlegung/Zeitzerlegung.csproj": {}
+    "/Users/omartaky/Desktop/BIB/OOC/Zeitzerlegung/Zeitzerlegung.csproj": {}
   },
   "projects": {
-    "/Users/omartaky/Desktop/BIB/OOC/OOC/Zeitzerlegung/Zeitzerlegung.csproj": {
+    "/Users/omartaky/Desktop/BIB/OOC/Zeitzerlegung/Zeitzerlegung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omartaky/Desktop/BIB/OOC/OOC/Zeitzerlegung/Zeitzerlegung.csproj",
+        "projectUniqueName": "/Users/omartaky/Desktop/BIB/OOC/Zeitzerlegung/Zeitzerlegung.csproj",
         "projectName": "Zeitzerlegung",
-        "projectPath": "/Users/omartaky/Desktop/BIB/OOC/OOC/Zeitzerlegung/Zeitzerlegung.csproj",
+        "projectPath": "/Users/omartaky/Desktop/BIB/OOC/Zeitzerlegung/Zeitzerlegung.csproj",
         "packagesPath": "/Users/omartaky/.nuget/packages/",
-        "outputPath": "/Users/omartaky/Desktop/BIB/OOC/OOC/Zeitzerlegung/obj/",
+        "outputPath": "/Users/omartaky/Desktop/BIB/OOC/Zeitzerlegung/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/omartaky/.nuget/NuGet/NuGet.Config"

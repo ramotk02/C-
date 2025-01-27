@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bib\\Desktop\\BIB\\OOC\\Geldzerlegung\\Geldzerlegung.csproj": {}
+    "/Users/omartaky/Desktop/BIB/OOC/Geldzerlegung/Geldzerlegung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bib\\Desktop\\BIB\\OOC\\Geldzerlegung\\Geldzerlegung.csproj": {
+    "/Users/omartaky/Desktop/BIB/OOC/Geldzerlegung/Geldzerlegung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bib\\Desktop\\BIB\\OOC\\Geldzerlegung\\Geldzerlegung.csproj",
+        "projectUniqueName": "/Users/omartaky/Desktop/BIB/OOC/Geldzerlegung/Geldzerlegung.csproj",
         "projectName": "Geldzerlegung",
-        "projectPath": "C:\\Users\\bib\\Desktop\\BIB\\OOC\\Geldzerlegung\\Geldzerlegung.csproj",
-        "packagesPath": "C:\\Users\\bib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bib\\Desktop\\BIB\\OOC\\Geldzerlegung\\obj\\",
+        "projectPath": "/Users/omartaky/Desktop/BIB/OOC/Geldzerlegung/Geldzerlegung.csproj",
+        "packagesPath": "/Users/omartaky/.nuget/packages/",
+        "outputPath": "/Users/omartaky/Desktop/BIB/OOC/Geldzerlegung/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bib\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/omartaky/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
