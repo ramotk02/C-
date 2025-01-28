@@ -1,0 +1,15 @@
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.AssemblyInfoInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.AssemblyInfo.cs
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.csproj.CoreCompileInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.sourcelink.json
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/bin/Debug/net8.0/MacroCalculator
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/bin/Debug/net8.0/MacroCalculator.deps.json
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/bin/Debug/net8.0/MacroCalculator.runtimeconfig.json
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/bin/Debug/net8.0/MacroCalculator.dll
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/bin/Debug/net8.0/MacroCalculator.pdb
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.dll
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/refint/MacroCalculator.dll
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.pdb
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/MacroCalculator.genruntimeconfig.cache
+/Users/omartaky/Desktop/BIB/OOC/MacroCalculator/MacroCalculator/obj/Debug/net8.0/ref/MacroCalculator.dll
