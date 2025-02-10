@@ -9,14 +9,13 @@ namespace BuchProjekt
 
         public Buch()
         {
-            Titel = "La Boîte à merveilles";
+            Titel = " Das marokkanische Wunderkästlein";
             Autor = "Ahmed Sefrioui";
             Seitenzahl = 350;
             Erscheinungsjahr = 1954;
-
         }
 
-        public void ZeigeDetails()
+        public void Details()
         {
             Console.WriteLine($"Titel: {Titel}, Autor: {Autor}");
         }

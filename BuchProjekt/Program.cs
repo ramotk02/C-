@@ -9,7 +9,7 @@ namespace BuchProjekt
             Console.WriteLine("Hello");
             string s = "test";
             Buch b1 = new Buch();
-            b1.ZeigeDetails();
+            b1.Details();
         }
     }
 }
