@@ -1,0 +1,15 @@
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\bin\Debug\net8.0\BuchProjekt.exe
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\bin\Debug\net8.0\BuchProjekt.deps.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\bin\Debug\net8.0\BuchProjekt.runtimeconfig.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\bin\Debug\net8.0\BuchProjekt.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\bin\Debug\net8.0\BuchProjekt.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.sourcelink.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\refint\BuchProjekt.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\BuchProjekt.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\BuchProjekt\obj\Debug\net8.0\ref\BuchProjekt.dll
