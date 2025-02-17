@@ -1,23 +1,26 @@
+
 namespace BuchProjekt
 {
     public class Buch
     {
         public string Titel { get; set; }
         public string Autor { get; set; }
-        public int Seitenzahl {get; set; }
-        public int Erscheinungsjahr {get; set; }
+        public int Seitenzahl { get; set; }
+        public int Erscheinungsjahr { get; set; }
+        public int Preis { get; set; }
 
-        public Buch()
+        public Buch(string titel, string autor, int seitenzahl, int erscheinungsjahr, int preis)
         {
-            Titel = " Das marokkanische Wunderkästlein";
-            Autor = "Ahmed Sefrioui";
-            Seitenzahl = 350;
-            Erscheinungsjahr = 1954;
+            Titel = titel;
+            Autor = autor;
+            Seitenzahl = seitenzahl;
+            Erscheinungsjahr = erscheinungsjahr;
+            Preis = preis;
         }
 
         public void Details()
         {
-            Console.WriteLine($"Titel: {Titel}, Autor: {Autor}");
+            Console.WriteLine($"Titel: {Titel}, Autor: {Autor}, Seiten: {Seitenzahl}, Erscheinungsjahr: {Erscheinungsjahr}, Preis: {Preis}€");
         }
     }
 }
