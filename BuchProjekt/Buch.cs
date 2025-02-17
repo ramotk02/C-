@@ -7,9 +7,9 @@ namespace BuchProjekt
         public string Autor { get; set; }
         public int Seitenzahl { get; set; }
         public int Erscheinungsjahr { get; set; }
-        public int Preis { get; set; }
+        public float Preis { get; set; }
 
-        public Buch(string titel, string autor, int seitenzahl, int erscheinungsjahr, int preis)
+        public Buch(string titel, string autor, int seitenzahl, int erscheinungsjahr, float preis)
         {
             Titel = titel;
             Autor = autor;
@@ -20,7 +20,7 @@ namespace BuchProjekt
 
         public void Details()
         {
-            Console.WriteLine($"Titel: {Titel}, Autor: {Autor}, Seiten: {Seitenzahl}, Erscheinungsjahr: {Erscheinungsjahr}, Preis: {Preis}€");
+            Console.WriteLine($"Titel: {Titel}, Autor: {Autor}, Seiten: {Seitenzahl}, Erscheinungsjahr: {Erscheinungsjahr}, Preis: {Preis} euro");
         }
     }
 }
