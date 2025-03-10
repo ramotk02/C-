@@ -1,0 +1,15 @@
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\bin\Debug\net9.0\Lotto.exe
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\bin\Debug\net9.0\Lotto.deps.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\bin\Debug\net9.0\Lotto.runtimeconfig.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\bin\Debug\net9.0\Lotto.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\bin\Debug\net9.0\Lotto.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.sourcelink.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\refint\Lotto.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\Lotto.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Lotto\obj\Debug\net9.0\ref\Lotto.dll

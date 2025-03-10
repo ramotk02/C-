@@ -23,4 +23,3 @@ Buch buch = new Buch(titel, autor, seitenzahl, erscheinungsjahr, preis);
 
 buch.Details();
 }
- 
