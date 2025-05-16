@@ -1,0 +1,15 @@
+/Users/omartaky/Desktop/BIB/OOC/Array/bin/Debug/net8.0/Array
+/Users/omartaky/Desktop/BIB/OOC/Array/bin/Debug/net8.0/Array.deps.json
+/Users/omartaky/Desktop/BIB/OOC/Array/bin/Debug/net8.0/Array.runtimeconfig.json
+/Users/omartaky/Desktop/BIB/OOC/Array/bin/Debug/net8.0/Array.dll
+/Users/omartaky/Desktop/BIB/OOC/Array/bin/Debug/net8.0/Array.pdb
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.AssemblyInfoInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.AssemblyInfo.cs
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.csproj.CoreCompileInputs.cache
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.sourcelink.json
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.dll
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/refint/Array.dll
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.pdb
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/Array.genruntimeconfig.cache
+/Users/omartaky/Desktop/BIB/OOC/Array/obj/Debug/net8.0/ref/Array.dll
