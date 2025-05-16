@@ -9,8 +9,10 @@ public class Program
 
         foreach (string array in Bigarray)
         {
-
-            Console.WriteLine(array);
+            if (array.StartsWith("B"))
+            {
+             Console.WriteLine(array);
+            }
         }
     }
 
