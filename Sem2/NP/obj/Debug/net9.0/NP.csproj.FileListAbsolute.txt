@@ -1,0 +1,15 @@
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\bin\Debug\net9.0\NP.exe
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\bin\Debug\net9.0\NP.deps.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\bin\Debug\net9.0\NP.runtimeconfig.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\bin\Debug\net9.0\NP.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\bin\Debug\net9.0\NP.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.sourcelink.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\refint\NP.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\NP.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\NP\obj\Debug\net9.0\ref\NP.dll

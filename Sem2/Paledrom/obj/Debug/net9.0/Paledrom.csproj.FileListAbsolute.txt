@@ -1,0 +1,15 @@
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\bin\Debug\net9.0\Paledrom.exe
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\bin\Debug\net9.0\Paledrom.deps.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\bin\Debug\net9.0\Paledrom.runtimeconfig.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\bin\Debug\net9.0\Paledrom.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\bin\Debug\net9.0\Paledrom.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.AssemblyInfoInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.AssemblyInfo.cs
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.csproj.CoreCompileInputs.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.sourcelink.json
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\refint\Paledrom.dll
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.pdb
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\Paledrom.genruntimeconfig.cache
+C:\Users\bib\Desktop\BIB - Kopie\OOC\Sem2\Paledrom\obj\Debug\net9.0\ref\Paledrom.dll
